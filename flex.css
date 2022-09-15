@@ -1,0 +1,12 @@
+.styles{
+    display: flex;
+    align-content: right;
+    flex-direction: row;
+    margin:20px;
+    background-color:blue;
+    width:50%;
+    
+    
+
+}
+p span:hover{background-color: aqua;font-size: 2em;}
